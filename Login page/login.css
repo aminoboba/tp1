@@ -1,0 +1,57 @@
+body{
+    background-color: orange;
+}
+
+
+
+.parentLogin{
+    margin-left: 322px;
+    position: relative;
+    width: 85%;
+    height: 1000px;
+}
+form{
+    width: 524px;
+    height: 700px;
+    text-align: center;
+    position: absolute;
+    top: 146px;
+    left: 700px;
+    background-color: brown;
+    border: solid red;
+    
+}
+form h1{
+    margin-bottom: 45px;
+    color: black;
+}
+    
+
+input{
+    width: 90%;
+    padding: 7px 2px;
+    margin-bottom: 7px;
+    border: none;
+    border-bottom: 1px solid rgb(34, 175, 15);
+    background-color: rgb(92, 89, 85);
+}
+input[type=submit]{
+    width: 55%;
+    height: 35px;
+    background-color:green ;
+    border: none;
+    margin-top: 45px;
+    color: white;
+    font-weight: 500px;
+    border-radius: 7px;
+}
+img{
+    width: 601px;
+    height: 715px;
+    position: absolute;
+    left: 100px;
+    border-radius: 10px;
+    top: 138px;
+    margin: 5px auto;
+
+}
